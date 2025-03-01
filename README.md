@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Mekala Mani Deepika</h1>
 <h3 align="center">Full Stack Java Developer - Fresher | Durga Malleshnunna Aspiring Full Stack Java Developer with a strong foundation in Java, Spring Boot, and web technologies. Passionate about building scalable, secure, and efficient applications. Proficient in Java, OOP principles, SQL, and RESTful APIs, with hands-on experience in frontend technologies like HTML, CSS, JavaScript, and React.js. Eager to contribute to dynamic development teams, enhance technical skills, and stay updated with emerging technologies. Strong problem-solving abilities and a keen interest in learning modern frameworks and best practices. Looking for an opportunity to apply my knowledge in full-stack development and grow as a professional in the software industry.</h3>
 
